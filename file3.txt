@@ -1,3 +1,2 @@
 This is the first new file in the feature/ESTC-1101 branch.
-This file has been modified in the feature/ESTC-1101 branch.
 One more change.
