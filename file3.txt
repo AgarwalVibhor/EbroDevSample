@@ -1,2 +1,4 @@
 This is the first new file in the feature/ESTC-1101 branch.
 One more change.
+
+This is for the demonstration of the star.
